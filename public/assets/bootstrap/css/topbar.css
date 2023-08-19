@@ -1,0 +1,27 @@
+.topbar-bottom-colors {
+    bottom: 0;
+    left: 0;
+    position: absolute;
+    right: 0;
+}
+.topbar-bottom-colors > i {
+    float: left;
+    height: 6px;
+    width: 12.833%;
+}
+.topbar-bottom-colors > i:first-child {width: 23%;}
+/*===== Side Header =====*/
+.side-header {
+    background-color: #272c33;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    bottom: 0;
+    float: left;
+    left: 0;
+    max-width: 76px;
+    position: fixed;
+    top: 96px;
+    width: 100%;
+    z-index: 2;
+}
